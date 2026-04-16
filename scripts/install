@@ -21,6 +21,11 @@ ynh_setup_source --dest_dir="$install_dir"
 
 chown -R "$app:www-data" "$install_dir"
 
+pushd "$install_dir"
+    mkdir cache
+    chmod +x $install_dir/$app
+popd
+
 #=================================================
 # APP INITIAL CONFIGURATION
 #=================================================
