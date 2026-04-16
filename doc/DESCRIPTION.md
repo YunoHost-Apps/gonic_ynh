@@ -1,1 +1,1 @@
-This is a dummy description of this app features
+Gonic is a free-software subsonic server API implementation, supporting its many clients.

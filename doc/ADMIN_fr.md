@@ -1,3 +1,7 @@
-Ceci est une fausse doc d'admin pour cette app
+D'autres dossiers de musique peuvent être ajoutés dans le fichier de configuration `__INSTALL_DIR__/config`
+```
+music-path                  __DATA_DIR__/music
+music-path                  /path/to/folder
 
-Le dossier d'install de l'app est `__INSTALL_DIR__`
+```
+

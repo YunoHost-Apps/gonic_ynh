@@ -1,1 +1,1 @@
-Ceci est une fausse description des fonctionalités de l'app
+Serveur de streaming de musique / implémentation libre de l'API Subsonic.

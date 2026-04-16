@@ -1,3 +1,6 @@
-This is a dummy admin doc for this app
+Other music folders can be added via the config file  `__INSTALL_DIR__/config`
+```
+music-path                  __DATA_DIR__/music
+music-path                  /path/to/folder
 
-The app install dir is `__INSTALL_DIR__`
+```
