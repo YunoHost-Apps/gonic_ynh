@@ -52,6 +52,8 @@ ram.runtime = "50M"
     autoupdate.asset.amd64 = "gonic-linux-amd64-.*"
     autoupdate.asset.arm64 = "gonic-linux-arm64-.*"
 
+    rename = "gonic"
+
     [resources.system_user]
 
     [resources.install_dir]
