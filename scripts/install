@@ -23,6 +23,7 @@ chown -R "$app:www-data" "$install_dir"
 
 pushd "$install_dir"
     mkdir cache
+    chown -R $app:$app cache
     chmod +x $install_dir/$app
 popd
 
