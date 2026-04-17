@@ -1,7 +1,3 @@
-This is a dummy disclaimer to display after the install
+The app url is <https://__DOMAIN____PATH__>  
+:warning: The default login and password are `admin` / `admin` :  password can then be changed from the web interface.  
 
-The app url is <https://__DOMAIN____PATH__>
-
-The app install dir is `__INSTALL_DIR__`
-
-The app id is `__ID__`
