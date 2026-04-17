@@ -60,7 +60,7 @@ ram.runtime = "50M"
 
 
     [resources.data_dir]
-    subdirs = ["music", "podcast", "playlists"]
+    subdirs = ["music", "podcast", "playlists", "database"]
 
     [resources.permissions]
 
