@@ -11,7 +11,7 @@ version = "0.20.1~ynh1"
 maintainers = ["otm33GH"]
 
 [upstream]
-license = "AGPL-3.0-only"
+license = "GPL-3.0-only"
 admindoc = "https://github.com/sentriz/gonic/wiki"
 userdoc = "https://github.com/sentriz/gonic/wiki"
 code = "https://github.com/sentriz/gonic"
