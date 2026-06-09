@@ -6,7 +6,7 @@ name = "Gonic"
 description.en = "Music streaming server / free-software subsonic server API implementation"
 description.fr = "Serveur de streaming de musique / implémentation libre de l'API Subsonic"
 
-version = "0.21.0~ynh1"
+version = "0.22.0~ynh1"
 
 maintainers = ["otm33GH"]
 
@@ -43,10 +43,10 @@ ram.runtime = "50M"
 
     [resources.sources.main]
 
-    amd64.url = "https://github.com/sentriz/gonic/releases/download/v0.21.0/gonic-linux-amd64-v0.21.0"    
-    amd64.sha256 = "08fdc1c23d6ba816bf6932a646a2822d25bcaad666a58bf2bbc8643afd350fcc"
-    arm64.url = "https://github.com/sentriz/gonic/releases/download/v0.21.0/gonic-linux-arm64-v0.21.0"    
-    arm64.sha256 = "762a8209d6303fff55159d5ef1df63d3d51525a7f13613390653416fd7977e42"
+    amd64.url = "https://github.com/sentriz/gonic/releases/download/v0.22.0/gonic-linux-amd64-v0.22.0"    
+    amd64.sha256 = "2426c1e573a21c7a165e3ebb7242a2aebcd29cab402db4cf18a78a29e3d4e089"
+    arm64.url = "https://github.com/sentriz/gonic/releases/download/v0.22.0/gonic-linux-arm64-v0.22.0"    
+    arm64.sha256 = "d5f92662fd06bfdee024d0965f19fe8d8724f7a2ec705554053ef817327a84e3"
 
     autoupdate.strategy = "latest_github_release"
     autoupdate.asset.amd64 = "gonic-linux-amd64-.*"
