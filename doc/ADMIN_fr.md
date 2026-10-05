@@ -1,4 +1,4 @@
-D'autres dossiers de musique peuvent être ajoutés dans le fichier d'environnement `__INSTALL_DIR__/.env`
+D'autres dossiers de musique peuvent être ajoutés dans le fichier d'environnement `__INSTALL_DIR__/.env`  
 Ex :
 ```
 GONIC_MUSIC_PATH=__DATA_DIR__/music,/home/yunohost.multimedia/<user>/Music/,/home/yunohost.multimedia/share/Music/,/path/to/albums,/path/to/compilations  
