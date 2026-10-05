@@ -9,4 +9,4 @@ or
 GONIC_MUSIC_PATH=__DATA_DIR__/music,my albums->/path/to/albums,my compilations->/path/to/compilations 
 # add comma separated folders
 ```
-Then restart the gonic server running `sudo systemctl restart gonic`
+Then restart the gonic server running `sudo systemctl restart gonic` .
